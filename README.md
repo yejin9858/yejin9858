@@ -17,11 +17,11 @@
 </br>
 </br>
 </br>
-![yejin9858's github stats](https://github-readme-stats.vercel.app/api?username=yejin9858&show_icons=true)
+<!-- ![yejin9858's github stats](https://github-readme-stats.vercel.app/api?username=yejin9858&show_icons=true)-->
 
 ### 📫 How to reach me: ...
-<a href="mailto:yejon9858@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/yejon9858@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="mailto:yejin.kim.dev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/yejin.kim.dev@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="mailto:yejin9858@naver.com" target="_blank">
 <img src="https://img.shields.io/badge/yejin9858@naver.com-03C75A?style=flat-square&logo=NAVER&logoColor=FFFFFF"/>
